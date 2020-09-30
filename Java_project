@@ -1,1 +1,20 @@
-Code-code in Java 
+Code-code in Java
+          Calculate the formula  :
+          1.Persegi :  
+           *  import java.util.Scanner;
+                 public class LuasPersegi {
+                         public static void main(String[] args) {
+                    int sisi, luas;
+                    Scanner scan = new Scanner(System.in);
+                    
+                    System.out.print("Masukkan panjang sisi persegi: ");
+                    sisi = scan.nextInt();
+                   
+                    luas = sisi * sisi;
+                    
+                    System.out.println("Luas Persegi adalah " + luas);
+               } 
+             }
+                 
+           *   
+          
